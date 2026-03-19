@@ -29,5 +29,5 @@ The plot below compares the average frequency response of a Rock versus a Mine. 
 - **Testing Accuracy:** ~76%
 
 ## ⚙️ How to Run
-1. Clone the repo: `git clone https://github.com`
+1. Clone the repo: `git clone https://github.com/Sibashis216/Rock-vs-Mine-Prediction.git`
 2. Run the notebook: `jupyter notebook Rock_vs_Mine.ipynb`
