@@ -9,11 +9,15 @@ The system uses sonar signals reflected off underwater objects. Each signal cons
 - **Algorithm:** Logistic Regression (Binary Classification).
 - **Dataset:** UCI Machine Learning Repository - Sonar Dataset.
 
-## 📊 Visualizations
+## 📊 Performance & Visualizations
 
-| Feature Correlation Heatmap | Model Performance (Confusion Matrix) |
-| :---: | :---: |
-| ![Heatmap](https://github.com) | ![Confusion Matrix](https://github.com) |
+### 1. Confusion Matrix
+This shows how accurately the model predicted the test data.
+![Confusion Matrix](confusion_matrix.png)
+
+### 2. Signal Analysis
+The plot below compares the average frequency response of a Rock versus a Mine. Notice how the signals differ in the middle frequency bands!  
+  ![Signal Comparison](signal_comparison.png)
 
 ## 🛠️ Tech Stack
 - **Language:** Python
