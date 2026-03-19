@@ -30,4 +30,4 @@ The plot below compares the average frequency response of a Rock versus a Mine. 
 
 ## ⚙️ How to Run
 1. Clone the repo: `git clone https://github.com/Sibashis216/Rock-vs-Mine-Prediction.git`
-2. Run the notebook: `jupyter notebook Rock_vs_Mine.ipynb`
+2. Run the notebook: `jupyter notebook Rock_vs_Mine_Prediction.ipynb`
