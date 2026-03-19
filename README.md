@@ -27,9 +27,7 @@ The plot below compares the average frequency response of a Rock versus a Mine. 
 ## 📈 Model Performance
 - **Training Accuracy:** ~83%
 - **Testing Accuracy:** ~76%
-*(Update these with your actual results!)*
 
 ## ⚙️ How to Run
 1. Clone the repo: `git clone https://github.com`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the notebook: `jupyter notebook Rock_vs_Mine.ipynb`
+2. Run the notebook: `jupyter notebook Rock_vs_Mine.ipynb`
